@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposePrac</string>
+    <string name="title_activity_button">ButtonActivity</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+</resources>
