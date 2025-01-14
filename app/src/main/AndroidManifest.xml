@@ -13,10 +13,10 @@
         android:theme="@style/Theme.JetpackComposePrac"
         tools:targetApi="31">
         <activity
-            android:name=".ModifierActivity"
+            android:name=".SurfaceActivity"
             android:exported="true"
-            android:label="@string/title_activity_modifier"
-            android:theme="@style/Theme.JetpackComposePrac" >
+            android:label="@string/title_activity_surface"
+            android:theme="@style/Theme.JetpackComposePrac">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,15 +24,20 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".ModifierActivity"
+            android:exported="true"
+            android:label="@string/title_activity_modifier"
+            android:theme="@style/Theme.JetpackComposePrac"/>
+        <activity
             android:name=".ButtonActivity"
             android:exported="true"
             android:label="@string/title_activity_button"
-            android:theme="@style/Theme.JetpackComposePrac"/>
+            android:theme="@style/Theme.JetpackComposePrac" />
         <activity
             android:name=".TextActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.JetpackComposePrac"/>
+            android:theme="@style/Theme.JetpackComposePrac" />
     </application>
 
 </manifest>
