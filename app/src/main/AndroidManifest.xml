@@ -13,9 +13,9 @@
         android:theme="@style/Theme.JetpackComposePrac"
         tools:targetApi="31">
         <activity
-            android:name=".BoxActivity"
+            android:name=".RowActivity"
             android:exported="true"
-            android:label="@string/title_activity_box"
+            android:label="@string/title_activity_row"
             android:theme="@style/Theme.JetpackComposePrac">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,10 +24,15 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".BoxActivity"
+            android:exported="true"
+            android:label="@string/title_activity_box"
+            android:theme="@style/Theme.JetpackComposePrac"/>
+        <activity
             android:name=".SurfaceActivity"
             android:exported="true"
             android:label="@string/title_activity_surface"
-            android:theme="@style/Theme.JetpackComposePrac"/>
+            android:theme="@style/Theme.JetpackComposePrac" />
         <activity
             android:name=".ModifierActivity"
             android:exported="true"
