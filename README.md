@@ -18,6 +18,15 @@
         <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/TextActivity.kt">Text</a></td>
         <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/ButtonActivity.kt">Button</a></td>
         <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/ModifierActivity.kt">Modifier</a></td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/SurfaceActivity.kt">Surface</a> </td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/BoxActivity.kt">Box</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/RowActivity.kt">Row</a> </td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/ColumnActivity.kt">Column</a></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
