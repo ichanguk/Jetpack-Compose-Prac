@@ -26,9 +26,16 @@
     <tr>
         <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/RowActivity.kt">Row</a> </td>
         <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/ColumnActivity.kt">Column</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/BoxWithConstraintsActivity.kt">BoxWithConstraints</a> </td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/ImageActivity.kt">Image</a> </td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/NetworkImageActivity.kt">Network Image</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/ProfileCardActivity.kt">프로필 카드 구현 실습</a></td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/CheckboxActivity.kt">Checkbox</a></td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/TextFieldActivity.kt">TextField</a></td>
+        <td><a href="https://github.com/ichanguk/Jetpack-Compose-Prac/blob/master/app/src/main/java/com/example/jetpackcomposeprac/TopAppBarActivity.kt">TopAppBar</a></td>
+        <td><a href=""></a></td>
     </tr>
   </tbody>
 </table>
