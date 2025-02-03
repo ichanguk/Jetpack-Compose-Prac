@@ -6,4 +6,11 @@
     <string name="title_activity_box">BoxActivity</string>
     <string name="title_activity_row">RowActivity</string>
     <string name="title_activity_column">ColumnActivity</string>
+    <string name="title_activity_box_with_constraints">BoxWithConstraintsActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_network_image">NetworkImageActivity</string>
+    <string name="title_activity_profile_card">ProfileCardActivity</string>
+    <string name="title_activity_checkbox">CheckboxActivity</string>
+    <string name="title_activity_text_field">TextFieldActivity</string>
+    <string name="title_activity_top_app_bar">TopAppBarActivity</string>
 </resources>
